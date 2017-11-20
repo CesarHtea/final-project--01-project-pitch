@@ -2,7 +2,12 @@
 
 Your final project is a demonstration of your knowledge and will be a showpiece in your portfolio. You will have two weeks to complete the project and you will be responsible for each phase from concept to design to development.
 
-To start, we will begin with this exercise so that you can begin to form ideas and scope the work:
+The best way to frame your project is from a potential user's point of view:
+
+  - what problem does your project solve
+  - how will users benefit from using your application.
+
+To start, we will begin with the following exercise so that you can begin to form ideas and scope the work.
 
 ### Project Pitch Exercise
 
