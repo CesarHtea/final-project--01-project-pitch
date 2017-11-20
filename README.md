@@ -1,5 +1,11 @@
 # Final Project Pitch
 
+Your final project is a demonstration of your knowledge and will be a showpiece in your portfolio. You will have two weeks to complete the project and you will be responsible for each phase from concept to design to development.
+
+To start, we will begin with this exercise so that you can begin to form ideas and scope the work:
+
+### Project Pitch Exercise
+
 **Summary**
 
 A one or two sentence synopsis of what your idea is.
